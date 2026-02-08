@@ -112,13 +112,13 @@
         <div class="flex-wrap d-flex py-5 column-1000 gap-3">
          <div class="col-12 justify-content-between d-flex flex-column gap-3 align-items-center">
           <a target="blank" href="siteler/xlog/index.php" class="col-12"><img class="col-12" src="assets/images/xlog-sitemockup.png" alt=" xlog firewall website tasrımı"></a>
-          <button type="button"onclick=" window.open('siteler/xlog/index.php','_blank')" aria-label="Siteyi incele"  class="btn btn-outline-secondary col-6">Siteye gitmek için</button>
+          <button type="button"onclick=" window.open('https://xlog.com.tr/demo-sinan/access-point.php','_blank')" aria-label="Siteyi incele"  class="btn btn-outline-secondary col-6">Siteye gitmek için</button>
 
         </div>
          <div class="col-12 justify-content-between d-flex flex-column gap-3 align-items-center">
          <a target="blank" href="siteler/arjeta/index.php" class="col-12"><img class="col-12" src="assets/images/arjeta-sitemockup.png" alt="arjeta bilişim website tasrımı"></a>
          
-         <button type="button"onclick=" window.open('siteler/arjeta/index.php','_blank')"aria-label="Siteyi incele"  class="btn btn-outline-secondary col-6">Siteye gitmek için</button>
+         <button type="button"onclick=" window.open('https://arjeta.com.tr','_blank')"aria-label="Siteyi incele"  class="btn btn-outline-secondary col-6">Siteye gitmek için</button>
 
         </div>
                    
