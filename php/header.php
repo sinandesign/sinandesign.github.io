@@ -17,5 +17,5 @@
   </head>
   <body>
 <nav class="navbar bg-body-tertiary justify-content-center bg-secondary-subtle">
-      <div class="container-md mx-5"><a class="navbar-brand text-header " href="www.kayasinan.com"><img  aria-hidden="true" class="logo me-3" src="assets/images/logo.svg" alt="sinan kaya logo">Sinan KAYA</a><a class="nav-link active d-flex align-items-center column-gap-3 text-header" aria-current="page" href="#"><img class="logo"  aria-hidden="true" src="assets/images/blog-icon.svg" alt="">Blog</a></div>
+      <div class="container-md mx-5"><a class="navbar-brand text-header " href="www.kayasinan.com"><img  aria-hidden="true" class="logo me-3" src="assets/images/logo.svg" alt="sinan kaya logo">Sinan KAYA</a></div>
     </nav>
