@@ -22,7 +22,7 @@
               <video controls="true" class="col-12" src="assets/images/porsuk.mp4"></video>
               <div class="text-info-project">
                 <h4>Porsuk Yolculuk Hikayesi</h4>
-                <p>VLAN taşıyan porsuğun network ortamındaki yolculuk hikayesi… Illustrator’da yaptığım illüstrasyonları After Effects’te hareketlendirdim ve gerektiğinde Blender’da modelleyip 3D objeler olarak ya da keyleyerek videolar olarak ekledim.</p>
+                <p>VLAN taşıyan porsuğun network ortamındaki yolculuk hikayesi… Illustrator'da yaptığım illüstrasyonları After Effects'te hareketlendirdim ve gerektiğinde Blender'da modelleyip 3D objeler olarak ya da keyleyerek videolar olarak ekledim.</p>
               </div>
             </div>
         </div>
@@ -54,7 +54,7 @@
         <div class=" row flex-wrap justify-content-center gap-4 p-0 d-flex">
             <div class="col-12">
               <h3>Porsuk Layer 2 tünel</h3>
-              <p>Logo tasarlanırken, markanın ağdaki tünel yapısını betimlemek amacıyla porsuk maskot olarak seçildi ve logotypedeki ‘p’ harfi, hayvanın göz çevresindeki karakteristik yapıdan esinlenerek oluşturuldu.</p>
+              <p>Logo tasarlanırken, markanın ağdaki tünel yapısını betimlemek amacıyla porsuk maskot olarak seçildi ve logotypedeki 'p' harfi, hayvanın göz çevresindeki karakteristik yapıdan esinlenerek oluşturuldu.</p>
             </div>
             <img class="col-12" src="assets/images/logotypep.png" alt="porsuk logo">
         </div>
