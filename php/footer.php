@@ -10,7 +10,6 @@
             </a>
           </div>
         </div>
-        <button aria-label="Bloglara gitmek için tıkla" class="footer-button p-5" type="button">BLOG</button>
         <button aria-label="Tüm projelere gitmek için tıkla" onclick="location.href='project.php'"  class="footer-button p-5" type="button">Project</button>
         
         
