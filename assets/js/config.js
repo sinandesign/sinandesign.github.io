@@ -6,6 +6,14 @@ const blobFiles = {
   // Videolar
   'xlog-3d.mp4': `${BLOB_BASE_URL}/xlog-3d.mp4`,
   'porsuk.mp4': `${BLOB_BASE_URL}/porsuk.mp4`,
+
+    // SVG Logolar
+  'blog-icon.svg': `${BLOB_BASE_URL}/blog-icon.svg`,
+  'logolar-01.svg': `${BLOB_BASE_URL}/logolar-01.svg`,
+  'logolar-02.svg': `${BLOB_BASE_URL}/logolar-02.svg`,
+  'logolar-03.svg': `${BLOB_BASE_URL}/logolar-03.svg`,
+  'logolar.svg': `${BLOB_BASE_URL}/logolar.svg`,
+
   
   // Büyük resimler
   'porsuk.png': `${BLOB_BASE_URL}/porsuk.png`,
